@@ -78,3 +78,4 @@ npm run preview
 - **Author**: Dinesh Kumar JB ([@Dineshkumar-jb](https://github.com/Dineshkumar-jb))
 - **Challenge**: Rajasthan Royals — SupeRR Selector Season 2 (Round 1)
 - **Motto**: *Halla Bol!*
+
