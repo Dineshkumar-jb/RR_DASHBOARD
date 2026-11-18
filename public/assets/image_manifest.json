@@ -1,0 +1,210 @@
+{
+  "tim_david": {
+    "role": "batter",
+    "name": "Tim David",
+    "team": "Australia / RCB / MI",
+    "path": "assets/players/batters/tim_david.jpg",
+    "web_path": "/assets/players/batters/tim_david.jpg",
+    "resolution": "595x396",
+    "size_kb": 36.0,
+    "verified_authentic": true
+  },
+  "shashank_singh": {
+    "role": "batter",
+    "name": "Shashank Singh",
+    "team": "India / PBKS",
+    "path": "assets/players/batters/shashank_singh.jpg",
+    "web_path": "/assets/players/batters/shashank_singh.jpg",
+    "resolution": "600x600",
+    "size_kb": 83.5,
+    "verified_authentic": true
+  },
+  "suryakumar_yadav": {
+    "role": "batter",
+    "name": "Suryakumar Yadav",
+    "team": "India / MI",
+    "path": "assets/players/batters/suryakumar_yadav.jpg",
+    "web_path": "/assets/players/batters/suryakumar_yadav.jpg",
+    "resolution": "560x716",
+    "size_kb": 90.4,
+    "verified_authentic": true
+  },
+  "rinku_singh": {
+    "role": "batter",
+    "name": "Rinku Singh",
+    "team": "India / KKR",
+    "path": "assets/players/batters/rinku_singh.jpg",
+    "web_path": "/assets/players/batters/rinku_singh.jpg",
+    "resolution": "600x900",
+    "size_kb": 152.7,
+    "verified_authentic": true
+  },
+  "ashutosh_sharma": {
+    "role": "batter",
+    "name": "Ashutosh Sharma",
+    "team": "India / DC / PBKS",
+    "path": "assets/players/batters/ashutosh_sharma.jpg",
+    "web_path": "/assets/players/batters/ashutosh_sharma.jpg",
+    "resolution": "900x1200",
+    "size_kb": 231.5,
+    "verified_authentic": true
+  },
+  "dinesh_karthik": {
+    "role": "batter",
+    "name": "Dinesh Karthik",
+    "team": "India / RCB",
+    "path": "assets/players/batters/dinesh_karthik.jpg",
+    "web_path": "/assets/players/batters/dinesh_karthik.jpg",
+    "resolution": "787x1438",
+    "size_kb": 214.2,
+    "verified_authentic": true
+  },
+  "shreyas_iyer": {
+    "role": "batter",
+    "name": "Shreyas Iyer",
+    "team": "India / PBKS / KKR",
+    "path": "assets/players/batters/shreyas_iyer.jpg",
+    "web_path": "/assets/players/batters/shreyas_iyer.jpg",
+    "resolution": "600x600",
+    "size_kb": 84.4,
+    "verified_authentic": true
+  },
+  "tristan_stubbs": {
+    "role": "batter",
+    "name": "Tristan Stubbs",
+    "team": "South Africa / DC",
+    "path": "assets/players/batters/tristan_stubbs.jpg",
+    "web_path": "/assets/players/batters/tristan_stubbs.jpg",
+    "resolution": "900x1200",
+    "size_kb": 243.5,
+    "verified_authentic": true
+  },
+  "heinrich_klaasen": {
+    "role": "batter",
+    "name": "Heinrich Klaasen",
+    "team": "South Africa / SRH",
+    "path": "assets/players/batters/heinrich_klaasen.jpg",
+    "web_path": "/assets/players/batters/heinrich_klaasen.jpg",
+    "resolution": "595x396",
+    "size_kb": 37.3,
+    "verified_authentic": true
+  },
+  "tilak_varma": {
+    "role": "batter",
+    "name": "Tilak Varma",
+    "team": "India / MI",
+    "path": "assets/players/batters/tilak_varma.jpg",
+    "web_path": "/assets/players/batters/tilak_varma.jpg",
+    "resolution": "595x396",
+    "size_kb": 67.4,
+    "verified_authentic": true
+  },
+  "sufiyan_muqeem": {
+    "role": "bowler",
+    "name": "Sufiyan Muqeem",
+    "team": "Pakistan / Left-Arm Wrist Spin",
+    "path": "assets/players/bowlers/sufiyan_muqeem.jpg",
+    "web_path": "/assets/players/bowlers/sufiyan_muqeem.jpg",
+    "resolution": "1280x720",
+    "size_kb": 109.8,
+    "verified_authentic": true
+  },
+  "matheesha_pathirana": {
+    "role": "bowler",
+    "name": "Matheesha Pathirana",
+    "team": "Sri Lanka / CSK / KKR",
+    "path": "assets/players/bowlers/matheesha_pathirana.jpg",
+    "web_path": "/assets/players/bowlers/matheesha_pathirana.jpg",
+    "resolution": "600x900",
+    "size_kb": 130.3,
+    "verified_authentic": true
+  },
+  "kuldeep_yadav": {
+    "role": "bowler",
+    "name": "Kuldeep Yadav",
+    "team": "India / DC",
+    "path": "assets/players/bowlers/kuldeep_yadav.jpg",
+    "web_path": "/assets/players/bowlers/kuldeep_yadav.jpg",
+    "resolution": "544x662",
+    "size_kb": 111.0,
+    "verified_authentic": true
+  },
+  "rashid_khan": {
+    "role": "bowler",
+    "name": "Rashid Khan",
+    "team": "Afghanistan / GT",
+    "path": "assets/players/bowlers/rashid_khan.jpg",
+    "web_path": "/assets/players/bowlers/rashid_khan.jpg",
+    "resolution": "1448x1215",
+    "size_kb": 268.0,
+    "verified_authentic": true
+  },
+  "abrar_ahmed": {
+    "role": "bowler",
+    "name": "Abrar Ahmed",
+    "team": "Pakistan / Mystery Spin",
+    "path": "assets/players/bowlers/abrar_ahmed.jpg",
+    "web_path": "/assets/players/bowlers/abrar_ahmed.jpg",
+    "resolution": "595x396",
+    "size_kb": 28.7,
+    "verified_authentic": true
+  },
+  "shaheen_afridi": {
+    "role": "bowler",
+    "name": "Shaheen Afridi",
+    "team": "Pakistan / Left-Arm Fast",
+    "path": "assets/players/bowlers/shaheen_afridi.jpg",
+    "web_path": "/assets/players/bowlers/shaheen_afridi.jpg",
+    "resolution": "595x396",
+    "size_kb": 26.4,
+    "verified_authentic": true
+  },
+  "mohsin_khan": {
+    "role": "bowler",
+    "name": "Mohsin Khan",
+    "team": "India / LSG",
+    "path": "assets/players/bowlers/mohsin_khan.jpg",
+    "web_path": "/assets/players/bowlers/mohsin_khan.jpg",
+    "resolution": "400x533",
+    "size_kb": 61.2,
+    "verified_authentic": true
+  },
+  "varun_chakravarthy": {
+    "role": "bowler",
+    "name": "Varun Chakravarthy",
+    "team": "India / KKR",
+    "path": "assets/players/bowlers/varun_chakravarthy.jpg",
+    "web_path": "/assets/players/bowlers/varun_chakravarthy.jpg",
+    "resolution": "600x900",
+    "size_kb": 146.6,
+    "verified_authentic": true
+  },
+  "ripon_mondol": {
+    "role": "bowler",
+    "name": "Ripon Mondol",
+    "team": "Bangladesh / Fast Medium",
+    "path": "assets/players/bowlers/ripon_mondol.jpg",
+    "web_path": "/assets/players/bowlers/ripon_mondol.jpg",
+    "resolution": "200x200",
+    "size_kb": 12.5,
+    "verified_authentic": true
+  },
+  "arshdeep_singh": {
+    "role": "bowler",
+    "name": "Arshdeep Singh",
+    "team": "India / PBKS",
+    "path": "assets/players/bowlers/arshdeep_singh.jpg",
+    "web_path": "/assets/players/bowlers/arshdeep_singh.jpg",
+    "resolution": "552x685",
+    "size_kb": 100.7,
+    "verified_authentic": true
+  },
+  "meta": {
+    "total_players": 20,
+    "total_batters": 10,
+    "total_bowlers": 10,
+    "all_verified_authentic": true,
+    "franchise_crest": "/assets/logos/rr_logo.png",
+    "stadium_bg": "/assets/backgrounds/stadium_dark.jpg"
+  }
+}
